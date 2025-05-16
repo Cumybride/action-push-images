@@ -1,5 +1,4 @@
-jenkins/jenkins:lts-jdk11
-busybox:1.35.0
-jenkins/inbound-agent:latest
+moby/buildkit:buildx-stable-1
+
 #支持指定架构
 #--platform=linux/arm64
