@@ -1,3 +1,3 @@
-timonwong/prometheus-webhook-dingtalk:latest
+consul:1.15.4
 #支持指定架构
 #--platform=linux/arm64
