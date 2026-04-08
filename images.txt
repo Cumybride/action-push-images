@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 nacos/nacos-server:v2.3.0-slim
 # portainer/agent:2.39.1-linux-arm64
-releases-docker.jfrog.io/jfrog/artifactory-pro:7.11.5
+--platform=linux/arm64 releases-docker.jfrog.io/jfrog/artifactory-pro:7.11.5
