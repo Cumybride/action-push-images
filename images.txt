@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 nacos/nacos-server:v2.3.0-slim
 # portainer/agent:2.39.1-linux-arm64
-portainer/portainer-ce:latest
+openresty/openresty:1.27.1.1-1-bookworm-fat
