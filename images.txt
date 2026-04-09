@@ -1,4 +1,4 @@
 #支持指定架构
 #--platform=linux/arm64 nacos/nacos-server:v2.3.0-slim
 # portainer/agent:2.39.1-linux-arm64
---platform=linux/arm64 docker.bintray.io/jfrog/artifactory-oss:6.23.41
+--platform=linux/arm64 goharbor/harbor-core:v2.11.0
